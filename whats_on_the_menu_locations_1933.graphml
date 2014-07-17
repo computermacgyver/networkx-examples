@@ -1,0 +1,838 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="long" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="The Plaza" />
+    <node id="Hotel Mc Alpin" />
+    <node id="The Towers Hotel" />
+    <node id="S.S. Excalibur" />
+    <node id="Hotel Pennsylvania" />
+    <node id="Union Club" />
+    <node id="Empire State Observatory" />
+    <node id="Lido" />
+    <node id="The Cortile" />
+    <node id="Prince George Hotel" />
+    <node id="Level Club" />
+    <node id="The National Arts Club" />
+    <node id="Hotel Pierre" />
+    <node id="Hotel Roosevelt" />
+    <node id="The Ambassador" />
+    <node id="The Hotel Commodore" />
+    <node id="Hotel St. Regis" />
+    <node id="Plaza Hotel" />
+    <node id="White Horse Inn" />
+    <node id="The Roosevelt" />
+    <node id="Casino   Central Park" />
+    <node id="The Queen's Park Hotel" />
+    <node id="Waldorf Astoria" />
+    <node id="Ambassador Grill" />
+    <node id="Palmer House" />
+    <node id="Hotel Astor" />
+    <node id="Italian Line" />
+    <node id="The Commodore Hotel" />
+    <node id="The Hotel Plaza" />
+    <edge source="The Plaza" target="Hotel Mc Alpin">
+      <data key="d0">48</data>
+    </edge>
+    <edge source="The Plaza" target="The Towers Hotel">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="The Plaza" target="S.S. Excalibur">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="The Plaza" target="Hotel Pennsylvania">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Plaza" target="Empire State Observatory">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="The Plaza" target="The Cortile">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="The Plaza" target="Prince George Hotel">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="The Plaza" target="Level Club">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="The Plaza" target="Hotel Pierre">
+      <data key="d0">64</data>
+    </edge>
+    <edge source="The Plaza" target="Hotel Roosevelt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="The Plaza" target="The Ambassador">
+      <data key="d0">67</data>
+    </edge>
+    <edge source="The Plaza" target="The Hotel Commodore">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="The Plaza" target="Plaza Hotel">
+      <data key="d0">35</data>
+    </edge>
+    <edge source="The Plaza" target="White Horse Inn">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="The Plaza" target="The Roosevelt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Plaza" target="The Queen's Park Hotel">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Plaza" target="Waldorf Astoria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Plaza" target="Ambassador Grill">
+      <data key="d0">29</data>
+    </edge>
+    <edge source="The Plaza" target="Palmer House">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Plaza" target="Hotel Astor">
+      <data key="d0">53</data>
+    </edge>
+    <edge source="The Plaza" target="Italian Line">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="The Plaza" target="The Commodore Hotel">
+      <data key="d0">54</data>
+    </edge>
+    <edge source="The Plaza" target="The Hotel Plaza">
+      <data key="d0">53</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="The Towers Hotel">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="S.S. Excalibur">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="Hotel Pennsylvania">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="Empire State Observatory">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="The Cortile">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="Prince George Hotel">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="Level Club">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="The National Arts Club">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="Hotel Pierre">
+      <data key="d0">118</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="Hotel Roosevelt">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="The Ambassador">
+      <data key="d0">221</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="The Hotel Commodore">
+      <data key="d0">46</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="Hotel St. Regis">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="Plaza Hotel">
+      <data key="d0">64</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="White Horse Inn">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="The Roosevelt">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="The Queen's Park Hotel">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="Waldorf Astoria">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="Ambassador Grill">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="Palmer House">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="Hotel Astor">
+      <data key="d0">142</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="Italian Line">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="The Commodore Hotel">
+      <data key="d0">142</data>
+    </edge>
+    <edge source="Hotel Mc Alpin" target="The Hotel Plaza">
+      <data key="d0">55</data>
+    </edge>
+    <edge source="The Towers Hotel" target="Level Club">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="The Towers Hotel" target="Ambassador Grill">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="The Towers Hotel" target="Palmer House">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Towers Hotel" target="Hotel Astor">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="The Towers Hotel" target="Waldorf Astoria">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Towers Hotel" target="The Ambassador">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="The Towers Hotel" target="Prince George Hotel">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Towers Hotel" target="The Hotel Commodore">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Towers Hotel" target="Hotel Pennsylvania">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Towers Hotel" target="White Horse Inn">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Towers Hotel" target="The Roosevelt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Towers Hotel" target="Hotel Pierre">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="The Towers Hotel" target="The Commodore Hotel">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="The Towers Hotel" target="Hotel Roosevelt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Towers Hotel" target="The Hotel Plaza">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="Ambassador Grill">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="Palmer House">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="Hotel Astor">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="The Ambassador">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="Prince George Hotel">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="The Cortile">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="The Hotel Commodore">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="Level Club">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="The National Arts Club">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="Hotel St. Regis">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="Plaza Hotel">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="The Roosevelt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="Hotel Pierre">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="Italian Line">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="The Commodore Hotel">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="Hotel Roosevelt">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="The Queen's Park Hotel">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="The Hotel Plaza">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="S.S. Excalibur" target="Empire State Observatory">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel Pennsylvania" target="Palmer House">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel Pennsylvania" target="Hotel Astor">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel Pennsylvania" target="The Ambassador">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hotel Pennsylvania" target="Prince George Hotel">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel Pennsylvania" target="The Hotel Commodore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel Pennsylvania" target="Level Club">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel Pennsylvania" target="The National Arts Club">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel Pennsylvania" target="White Horse Inn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel Pennsylvania" target="The Roosevelt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hotel Pennsylvania" target="Hotel Pierre">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hotel Pennsylvania" target="The Commodore Hotel">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hotel Pennsylvania" target="Hotel Roosevelt">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel Pennsylvania" target="The Hotel Plaza">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Union Club" target="Waldorf Astoria">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Union Club" target="The Ambassador">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Union Club" target="The Commodore Hotel">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Union Club" target="Hotel Astor">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Union Club" target="The Hotel Commodore">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Empire State Observatory" target="Ambassador Grill">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Empire State Observatory" target="Palmer House">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Empire State Observatory" target="Hotel Astor">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Empire State Observatory" target="The Ambassador">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="Empire State Observatory" target="Prince George Hotel">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Empire State Observatory" target="The Cortile">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Empire State Observatory" target="The Hotel Commodore">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Empire State Observatory" target="Hotel St. Regis">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Empire State Observatory" target="Plaza Hotel">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Empire State Observatory" target="Hotel Pierre">
+      <data key="d0">21</data>
+    </edge>
+    <edge source="Empire State Observatory" target="Italian Line">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Empire State Observatory" target="The Commodore Hotel">
+      <data key="d0">15</data>
+    </edge>
+    <edge source="Empire State Observatory" target="The Hotel Plaza">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Empire State Observatory" target="The Queen's Park Hotel">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Cortile" target="Ambassador Grill">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="The Cortile" target="Palmer House">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Cortile" target="Hotel Astor">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="The Cortile" target="The Ambassador">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="The Cortile" target="Prince George Hotel">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="The Cortile" target="The Hotel Commodore">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="The Cortile" target="Hotel St. Regis">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Cortile" target="Plaza Hotel">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="The Cortile" target="White Horse Inn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Cortile" target="The Roosevelt">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Cortile" target="Hotel Pierre">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="The Cortile" target="Italian Line">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Cortile" target="The Commodore Hotel">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="The Cortile" target="The Queen's Park Hotel">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Cortile" target="The Hotel Plaza">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Prince George Hotel" target="Level Club">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Prince George Hotel" target="Hotel Pierre">
+      <data key="d0">31</data>
+    </edge>
+    <edge source="Prince George Hotel" target="Hotel Roosevelt">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Prince George Hotel" target="The Ambassador">
+      <data key="d0">33</data>
+    </edge>
+    <edge source="Prince George Hotel" target="The Hotel Commodore">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Prince George Hotel" target="Hotel St. Regis">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Prince George Hotel" target="Plaza Hotel">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Prince George Hotel" target="White Horse Inn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Prince George Hotel" target="The Roosevelt">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Prince George Hotel" target="Casino   Central Park">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Prince George Hotel" target="The Queen's Park Hotel">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Prince George Hotel" target="Ambassador Grill">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Prince George Hotel" target="Palmer House">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Prince George Hotel" target="Hotel Astor">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Prince George Hotel" target="Italian Line">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Prince George Hotel" target="The Commodore Hotel">
+      <data key="d0">29</data>
+    </edge>
+    <edge source="Prince George Hotel" target="The Hotel Plaza">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="Level Club" target="Waldorf Astoria">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Level Club" target="Ambassador Grill">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Level Club" target="Palmer House">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Level Club" target="Hotel Astor">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Level Club" target="The Ambassador">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Level Club" target="The Hotel Commodore">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Level Club" target="The National Arts Club">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Level Club" target="White Horse Inn">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Level Club" target="The Roosevelt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Level Club" target="Hotel Pierre">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Level Club" target="The Commodore Hotel">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Level Club" target="Hotel Roosevelt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Level Club" target="The Hotel Plaza">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="The National Arts Club" target="Ambassador Grill">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The National Arts Club" target="Hotel Astor">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The National Arts Club" target="The Ambassador">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The National Arts Club" target="Plaza Hotel">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The National Arts Club" target="The Roosevelt">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The National Arts Club" target="Hotel Pierre">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The National Arts Club" target="The Commodore Hotel">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hotel Pierre" target="Hotel Roosevelt">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hotel Pierre" target="The Ambassador">
+      <data key="d0">237</data>
+    </edge>
+    <edge source="Hotel Pierre" target="The Hotel Commodore">
+      <data key="d0">39</data>
+    </edge>
+    <edge source="Hotel Pierre" target="Hotel St. Regis">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel Pierre" target="Plaza Hotel">
+      <data key="d0">57</data>
+    </edge>
+    <edge source="Hotel Pierre" target="White Horse Inn">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Hotel Pierre" target="The Roosevelt">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hotel Pierre" target="Casino   Central Park">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel Pierre" target="The Queen's Park Hotel">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hotel Pierre" target="Waldorf Astoria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hotel Pierre" target="Ambassador Grill">
+      <data key="d0">66</data>
+    </edge>
+    <edge source="Hotel Pierre" target="Palmer House">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hotel Pierre" target="Hotel Astor">
+      <data key="d0">98</data>
+    </edge>
+    <edge source="Hotel Pierre" target="Italian Line">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Hotel Pierre" target="The Commodore Hotel">
+      <data key="d0">107</data>
+    </edge>
+    <edge source="Hotel Pierre" target="The Hotel Plaza">
+      <data key="d0">79</data>
+    </edge>
+    <edge source="Hotel Roosevelt" target="Palmer House">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hotel Roosevelt" target="Hotel Astor">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hotel Roosevelt" target="The Ambassador">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hotel Roosevelt" target="The Hotel Commodore">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Hotel Roosevelt" target="Waldorf Astoria">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel Roosevelt" target="White Horse Inn">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hotel Roosevelt" target="The Roosevelt">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hotel Roosevelt" target="The Commodore Hotel">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Hotel Roosevelt" target="The Hotel Plaza">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Ambassador" target="The Hotel Commodore">
+      <data key="d0">58</data>
+    </edge>
+    <edge source="The Ambassador" target="Hotel St. Regis">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Ambassador" target="Plaza Hotel">
+      <data key="d0">93</data>
+    </edge>
+    <edge source="The Ambassador" target="White Horse Inn">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="The Ambassador" target="The Roosevelt">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="The Ambassador" target="The Queen's Park Hotel">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="The Ambassador" target="Waldorf Astoria">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="The Ambassador" target="Ambassador Grill">
+      <data key="d0">213</data>
+    </edge>
+    <edge source="The Ambassador" target="Palmer House">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Ambassador" target="Hotel Astor">
+      <data key="d0">213</data>
+    </edge>
+    <edge source="The Ambassador" target="Italian Line">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="The Ambassador" target="The Commodore Hotel">
+      <data key="d0">206</data>
+    </edge>
+    <edge source="The Ambassador" target="The Hotel Plaza">
+      <data key="d0">89</data>
+    </edge>
+    <edge source="The Hotel Commodore" target="Casino   Central Park">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Hotel Commodore" target="Hotel St. Regis">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Hotel Commodore" target="Plaza Hotel">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="The Hotel Commodore" target="White Horse Inn">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="The Hotel Commodore" target="The Roosevelt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="The Hotel Commodore" target="The Queen's Park Hotel">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Hotel Commodore" target="Waldorf Astoria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Hotel Commodore" target="Ambassador Grill">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="The Hotel Commodore" target="Palmer House">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="The Hotel Commodore" target="Hotel Astor">
+      <data key="d0">40</data>
+    </edge>
+    <edge source="The Hotel Commodore" target="Italian Line">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="The Hotel Commodore" target="The Commodore Hotel">
+      <data key="d0">167</data>
+    </edge>
+    <edge source="The Hotel Commodore" target="The Hotel Plaza">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="Hotel St. Regis" target="Ambassador Grill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel St. Regis" target="Palmer House">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel St. Regis" target="Italian Line">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel St. Regis" target="The Commodore Hotel">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Hotel St. Regis" target="The Queen's Park Hotel">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Plaza Hotel" target="Waldorf Astoria">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Plaza Hotel" target="Ambassador Grill">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="Plaza Hotel" target="Hotel Astor">
+      <data key="d0">67</data>
+    </edge>
+    <edge source="Plaza Hotel" target="White Horse Inn">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Plaza Hotel" target="The Roosevelt">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Plaza Hotel" target="Italian Line">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Plaza Hotel" target="The Commodore Hotel">
+      <data key="d0">63</data>
+    </edge>
+    <edge source="Plaza Hotel" target="The Hotel Plaza">
+      <data key="d0">177</data>
+    </edge>
+    <edge source="White Horse Inn" target="Ambassador Grill">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="White Horse Inn" target="Palmer House">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="White Horse Inn" target="Hotel Astor">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="White Horse Inn" target="Waldorf Astoria">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="White Horse Inn" target="The Roosevelt">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="White Horse Inn" target="The Commodore Hotel">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="White Horse Inn" target="The Hotel Plaza">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="The Roosevelt" target="Ambassador Grill">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Roosevelt" target="Palmer House">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="The Roosevelt" target="Hotel Astor">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="The Roosevelt" target="Waldorf Astoria">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Roosevelt" target="The Commodore Hotel">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="The Roosevelt" target="The Hotel Plaza">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Casino   Central Park" target="The Commodore Hotel">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Queen's Park Hotel" target="Ambassador Grill">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Queen's Park Hotel" target="Palmer House">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Queen's Park Hotel" target="Hotel Astor">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="The Queen's Park Hotel" target="Italian Line">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="The Queen's Park Hotel" target="The Commodore Hotel">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="The Queen's Park Hotel" target="The Hotel Plaza">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Waldorf Astoria" target="Palmer House">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Waldorf Astoria" target="Hotel Astor">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Waldorf Astoria" target="The Commodore Hotel">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Waldorf Astoria" target="The Hotel Plaza">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ambassador Grill" target="Palmer House">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ambassador Grill" target="Hotel Astor">
+      <data key="d0">55</data>
+    </edge>
+    <edge source="Ambassador Grill" target="Italian Line">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Ambassador Grill" target="The Commodore Hotel">
+      <data key="d0">60</data>
+    </edge>
+    <edge source="Ambassador Grill" target="The Hotel Plaza">
+      <data key="d0">31</data>
+    </edge>
+    <edge source="Palmer House" target="Hotel Astor">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Palmer House" target="Italian Line">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Palmer House" target="The Commodore Hotel">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Palmer House" target="The Hotel Plaza">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Hotel Astor" target="Italian Line">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Hotel Astor" target="The Commodore Hotel">
+      <data key="d0">152</data>
+    </edge>
+    <edge source="Hotel Astor" target="The Hotel Plaza">
+      <data key="d0">48</data>
+    </edge>
+    <edge source="Italian Line" target="The Commodore Hotel">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Italian Line" target="The Hotel Plaza">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="The Commodore Hotel" target="The Hotel Plaza">
+      <data key="d0">49</data>
+    </edge>
+  </graph>
+</graphml>
